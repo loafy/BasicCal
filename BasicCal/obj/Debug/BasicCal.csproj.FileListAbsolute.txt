@@ -1,2 +1,10 @@
 c:\users\davishel\documents\visual studio 2015\Projects\BasicCal\BasicCal\bin\Debug\BasicCal.exe.config
 C:\Users\davishel\Source\Repos\BasicCal\BasicCal\bin\Debug\BasicCal.exe.config
+C:\Users\davishel\Source\Repos\BasicCal\BasicCal\obj\Debug\BasicCal.csprojResolveAssemblyReference.cache
+C:\Users\davishel\Source\Repos\BasicCal\BasicCal\obj\Debug\BasicCal.Calculator.resources
+C:\Users\davishel\Source\Repos\BasicCal\BasicCal\obj\Debug\BasicCal.Properties.Resources.resources
+C:\Users\davishel\Source\Repos\BasicCal\BasicCal\obj\Debug\BasicCal.csproj.GenerateResource.Cache
+C:\Users\davishel\Source\Repos\BasicCal\BasicCal\bin\Debug\BasicCal.exe
+C:\Users\davishel\Source\Repos\BasicCal\BasicCal\bin\Debug\BasicCal.pdb
+C:\Users\davishel\Source\Repos\BasicCal\BasicCal\obj\Debug\BasicCal.exe
+C:\Users\davishel\Source\Repos\BasicCal\BasicCal\obj\Debug\BasicCal.pdb

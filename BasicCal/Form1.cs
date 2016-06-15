@@ -10,16 +10,45 @@ using System.Windows.Forms;
 
 namespace BasicCal
 {
-    public partial class Form1 : Form
+    public partial class Calculator : Form
     {
-        public Form1()
+        public Calculator()
         {
             InitializeComponent();
         }
-
+        private void button_Click(object sender, EventArgs e)
+            Button b = (Button)sender;
+        
         private void button2_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+        
+                    
+            }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }
