@@ -16,39 +16,24 @@ namespace BasicCal
         {
             InitializeComponent();
         }
+
+
         private void button_Click(object sender, EventArgs e)
-            Button b = (Button)sender;
-        
-        private void button2_Click(object sender, EventArgs e)
         {
-
+            this.textBox1.Text += ((Button)sender).Text;
         }
-
+       
         private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
 
         private void button17_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "";
-        
+            textBox1.Text = string.Empty;           
+    
                     
-            }
-
-        private void button7_Click(object sender, EventArgs e)
-        {
-            
         }
+
     }
 }
